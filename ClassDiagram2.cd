@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClockLibrary.Clock">
+    <Position X="8" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAABAAAAAAEgAAAAAAAAAAEAAAAAAYCABABABA=</HashCode>
+      <FileName>Clock.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClockLibrary.ClassicWatch">
+    <Position X="5" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQEgAAAAAAAAAAAAAAABAICABAAABA=</HashCode>
+      <FileName>ClassicWatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClockLibrary.ClockComparer">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ClockComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClockLibrary.DigitalWatch">
+    <Position X="11.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADAAAAAAEgAAAAAAAAAAAAAAAAAICABAAABA=</HashCode>
+      <FileName>DigitalWatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClockLibrary.IdNumber">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEgEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IdNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClockLibrary.SmartWatch">
+    <Position X="8.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAABAAAAAAEgAAAAAAAAAAAEAAAAAICABAAABA=</HashCode>
+      <FileName>SmartWatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClockLibrary.IClonable">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>IClonable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClockLibrary.IInit">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IInit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ClockLibrary.IRandomCreate">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRandomCreate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
